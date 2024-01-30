@@ -1,0 +1,8 @@
+body {
+  font-family: "Lato", sans-serif;
+  text-align: center;
+}
+
+#notification-banner {
+  background-color: rgb(255, 255, 100);
+}
